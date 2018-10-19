@@ -1,3 +1,5 @@
+At the current moment original npm package store outdated version, so we just republish latest code to be able use it with npm.
+
 jQuery Validation Globalize
 ===========================
 
